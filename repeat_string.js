@@ -7,4 +7,4 @@ function repeating_string(string, repeat) {
     return concatenated_string 
 }
 
-console.log(repeating_string("shaine", 1000))
+console.log(repeating_string("wgoops", 1000))
